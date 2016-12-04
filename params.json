@@ -1,0 +1,6 @@
+{
+  "name": "CSIS 604 Fall 2016 Extra Credit",
+  "tagline": "Due December 12th",
+  "body": "(Worth up to the same amount of credit as 1 implementation project) Implement a distributed and thus scalable blog creation/editing system. I don't really care too much about the look or functionality of the system itself, but you must have a mysql DB backend and you must have state in your application (i.e., the user must stay logged in). There are numerous tutorials for such an app using Rails, Java EE, etc. The trick to this one is it must be scalable. Specifically, I want at least 2 application servers (VMs), and at least 2 DB servers (VMs). How you do the load balancing is going to be specific to the technologies you choose. In the end, I'll need to see a report detailing and showing how your application scales in a distributed sense and evidence of the application working even if one of the nodes goes down and then comes back up again. \r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
